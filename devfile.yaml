@@ -45,5 +45,5 @@ metadata:
   tags:
   - Go
   version: 1.0.2
+  name: go-starter
 schemaVersion: 2.1.0
-name: go-starter
