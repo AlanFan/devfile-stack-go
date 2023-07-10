@@ -1,3 +1,3 @@
-module github.com/devfile-samples/devfile-stack-go
+module example/hello
 
-go 1.16
+go 1.20
