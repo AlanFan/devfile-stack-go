@@ -29,6 +29,6 @@ commands:
     exec:
       component: tools
       workingDir: ${PROJECTS_ROOT}/devfile-stack-go
-      commandLine: ./devfile-stack-go
+      commandLine: ./abc
       group:
         kind: run
